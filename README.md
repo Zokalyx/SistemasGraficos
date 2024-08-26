@@ -2,4 +2,4 @@
 
 ## TP1: Castillo
 
-![alt text](castillo/ejemplo.png)
+![Castillo en frente de un lago](./Castillo/ejemplo.png)
