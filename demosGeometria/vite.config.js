@@ -9,7 +9,7 @@ export default defineConfig({
 		outDir: 'dist', // Personaliza el directorio de salida aquí
 		rollupOptions: {
 			input: {
-				main: resolve(__dirname, 'demoInstancedGeometry.html'),
+				main: resolve(__dirname, 'ejercicioGeometria.html'),
 			},
 		},
 	},
