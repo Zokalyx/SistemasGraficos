@@ -7,5 +7,5 @@ export default defineConfig({
 	build: {
 		outDir: 'dist', // Personaliza la carpeta de salida del build aquí
 	},
-	base: '/demoSistemaSolar', // Personaliza el directorio base de los links del HTML aquí
+	base: './', // Personaliza el directorio base de los links del HTML aquí
 });
